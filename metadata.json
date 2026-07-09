@@ -1,0 +1,6 @@
+{
+  "name": "Dibbyajit Kundu Portfolio",
+  "description": "Personal portfolio website for Dibbyajit Kundu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
